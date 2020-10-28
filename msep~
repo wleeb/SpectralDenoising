@@ -1,4 +1,0 @@
-  fname="test145.m"
-  fkey="whtd_"
-  msep.pl "$fname" "$fkey"
-
